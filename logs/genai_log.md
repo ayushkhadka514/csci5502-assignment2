@@ -25,7 +25,9 @@ A short note on limitations or potential bias (missingness, sampling, coverage, 
 AI Response (Summary):
 ChatGPT explained the tradeoffs between using a Python script and a Jupyter notebook, recommending a Jupyter notebook for this assignment due to its suitability for exploratory data analysis, inline outputs, visualizations, and narrative explanations. A hybrid approach (logic in .py files, presentation in a notebook) was also suggested.
 
+USER ACTION:
 
+We decided to go with a Jupyter Notebook rather than a Python program for our assignment.
 
 User Prompt 2:
 
@@ -33,3 +35,7 @@ How can I compute summary statistics for numeric columns in a dataset using Pyth
 
 Response (Summary):
 ChatGPT explained how to compute summary statistics using pandas and how to apply the 1.5×IQR rule to flag potential outliers. It also provided syntax for using Pandas functions to compute summary statistics.
+
+USER ACTION:
+
+We used the suggested pandas functions to display stati
