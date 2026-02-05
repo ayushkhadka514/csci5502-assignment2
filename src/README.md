@@ -1,6 +1,6 @@
 # csci5502-assignment2
 Assignment 2 CSCI 5502
-
+Ayush Khadka and Kaylee Dehncke
 ## Steps to Run
 
 1. **Install Dependencies**:
